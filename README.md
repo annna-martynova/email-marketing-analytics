@@ -23,5 +23,5 @@ UNION ALL, QUALIFY, Looker Studio
 [email_marketing_dataset.sql](queries/email_marketing_dataset.sql)
 
 ## Dashboard
-![Email marketing dashboard](email_marketing_dashboard.png)
+![Email marketing dashboard](email_marketing_dashboard.png) \
 [View in Looker Studio →](https://datastudio.google.com/reporting/eceb9f52-b293-4633-b4f1-8e98231c212e)
